@@ -1,5 +1,5 @@
 # Gamemode
-Gamemode, mostly reffered to as GM, is a simple and fast way to change your gamemode without typing a full `/gamemode` command.
+Gamemode, mostly referred to as GM, is a simple and fast way to change your gamemode without typing a full `/gamemode` command.
 
 ### Usage
 #### Creative Mode:
