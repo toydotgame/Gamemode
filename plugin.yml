@@ -1,0 +1,19 @@
+name: Gamemode
+main: io.github.toydotgame.Gamemode.Main
+version: 0.1
+description: Allows quick switching between creative and survival mode.
+author: toydotgame
+prefix: GM
+commands:
+   gmc:
+      description: Sets your gamemode to creative.
+      aliases: gm1
+      usage: "Usage: /<command>"
+   gms:
+      description: Sets your gamemode to survival.
+      aliases: gm0
+      usage: "Usage: /<command>"
+permissions:
+   gm.use:
+      description: Allows you to change your gamemode using GM.
+      default: op
